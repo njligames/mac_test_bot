@@ -1,0 +1,7 @@
+/Users/jamesfolk/Documents/NJLI/TESTBED/test_project_repo/_build_macOS/CMakeFiles/NJLIC-static.dir
+/Users/jamesfolk/Documents/NJLI/TESTBED/test_project_repo/_build_macOS/CMakeFiles/install.dir
+/Users/jamesfolk/Documents/NJLI/TESTBED/test_project_repo/_build_macOS/CMakeFiles/uninstall.dir
+/Users/jamesfolk/Documents/NJLI/TESTBED/test_project_repo/_build_macOS/CMakeFiles/NJLIC.dir
+/Users/jamesfolk/Documents/NJLI/TESTBED/test_project_repo/_build_macOS/CMakeFiles/NJLIC-exe.dir
+/Users/jamesfolk/Documents/NJLI/TESTBED/test_project_repo/_build_macOS/CMakeFiles/ALL_BUILD.dir
+/Users/jamesfolk/Documents/NJLI/TESTBED/test_project_repo/_build_macOS/CMakeFiles/ZERO_CHECK.dir
